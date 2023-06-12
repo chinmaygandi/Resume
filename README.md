@@ -60,7 +60,7 @@ My contribution to :
  
 [Development team]  
 • Designed various functionalities in CRM/Power Platform using low code approach via Power Automate 
-• Developed and unit tested multiple user stories in CRM D365 by writing JavaScript’s, plugins, business rules, workflows etc.
+• Developed and unit tested multiple user stories in CRM D365 by writing JavaScript’s, plugins, business rules, workflows, codeactivities etc.
 • Created Azure App functions, ASB queues in Azure for synchronous integration of CRM with 3rd party system
 • Implemented various CRM workarounds/solutions for functionalities specific to security roles, compliances etc.
 • Handled solution deployment via CI/CD pipeline in Azure DevOps 
@@ -85,8 +85,8 @@ My contribution to :
 ```
  
 • Developed a Plugin Automation Testing Tool to perform unit testing locally of all plugins in CRM D365 (eliminating the requirement of deployment solely for testing purposes)  
-• Created a common Rest API Code which could be used by various javascript functions/plugins/code activities in CRM D365 application for retrieval of data   
-• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking,  etc 
-• Implemented various CRM D365 functionalities by writing plugins, JavaScript, business rules etc. as and when required
+• Created a common Rest API Code which could be used by various javascript functions/plugins/code-activities in CRM D365 application for retrieval of data   
+• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking etc 
+• Implemented various CRM D365 functionalities by writing plugins, code-activities, workflow, javaScript, business rules etc.
 ```
 
