@@ -32,7 +32,7 @@ Cloud (AWS & Azure), Data Engineering, Software Enginnering, Dynamics 365, Power
 ### **Technical Skills**  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Programming Languages:** Python, C#, .Net, JAVA, SQL, HTML, CSS  
+**Programming Languages:** Python, C#, .NET, JAVA, SQL, HTML, CSS  
 **SQL:** MySQL, Oracle DB, Microsoft SQL Server, PostgreSQL  
 **ETL Tools:** SSIS, Alteryx, Talend, ADF  
 **Cloud Tools:** AWS (lambda, APIs, SNS, Dynamo DB), Power BI, Tableau, Azure, Dynamics 365 CRM, Power Platform  
