@@ -45,36 +45,38 @@ Cloud (AWS & Azure), Data Engineering, Software Enginnering, Dynamics 365, Power
 **Senior Software Engineer**  
 **Aug 2020 - Aug 2022**   
 ```    
-Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA etc
+Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA engineer etc
 
 My contribution to :  
 
-[Support team]  
-• Resolved 100 + user issues in CRM across various regions quickly and effectively without breaching SLAs  
-• Handled P1/P2 issues and other critical challenges on the fly while coordinating with client and other vendors across the project  
-• Analyzed, presented detailed root cause and provided solution for every single technical issue 
+[Data migration team]  
+• Performed data cleaning, pre-analysis, validation by writing SQL procedures, queries in MS SQL for 600K+ records  
+• Developed ETL (SSIS) pipelines/packages (kingswaysoft) for migration of 600K+ records from legacy applications to CRM via intermediate RDBMS (MSSQL) strategy  
+• Created ETL pipelines on Azure Data Factory and achieved performance optimization resulting in 90% decrease in time consumption  
+• Maintained checklists, followed individual country compliances to make sure that there is no miss during pre-migration, migration and post migration  
+• Automated smoke testing in CRM by developing utility using selenium,.NET, C# etc. resulting in testing time reduction from 6 hours to 1 hour 
+• Received exclusive appreciation certificate for effective and optimized data migration from client 
+• Contributed to the team's success in winning LTI's GoMx Ninja award for FY2021-Q4
+ 
+[Development team]  
+• Designed various functionalities in CRM/Power Platform using low code approach via Power Automate 
+• Developed and unit tested multiple user stories in CRM D365 by writing JavaScript’s, plugins, business rules, workflows etc.
+• Created Azure App functions, ASB queues in Azure for synchronous integration of CRM with 3rd party system
+• Implemented various CRM workarounds/solutions for functionalities specific to security roles, compliances etc.
+• Handled solution deployment via CI/CD pipeline in Azure DevOps 
+• Developed automation tool using selenium, C#, .NET for updating ServiceNow tickets daily resulting in 75% time reduction
 
 [Hypercare team]  
 • Contributed as a team lead for a pilot support team (hypercare) for more than 70 countries and 5000+ users for all Dyanmics 365 applications  
 • Successfully handled country rollouts, go live activities for multiple CRM D365 enviornments - Asia Pacific, Europe, North America  
 • Maintained, tracked, recorded, resolved each and every customer issue with no SLA breaches and detailed RRCA  
 • Presented dashboards to stakeholders showing overall nature of tickets in regular intervals during hypercare support 
- 
-[Data migration team]  
-• Performed data cleaning, pre-analysis, validation by writing SQL procedures, queries in MS SQL for 600K+ records  
-• Developed ETL SSIS pipelines (kingswaysoft) for migration of 600K+ records from legacy applications to CRM via intermediate RDBMS strategy  
-• Migrated data and achieved performance optimization resulting in 90% decrease in time consumption by creating ETL pipelines on Azure Data Factory  
-• Maintained checklists, followed individual country compliances to make sure that there is no miss during pre-migration, migration and post migration  
-• Automated smoke testing in CRM by developing utilities from scratch using selenium drivers, Easy-Repro framework, C# etc  
-• Received exclsuive appreciation certificate for effective and optimized data migration from client 
-• Contributed to the teams success in winning LTI's GoMx Ninja award - FY2021 - Q4
- 
-[Development team]  
-• Designed various functionalities in CRM/Power Platform using low code approach via Power Flow/Power Automate 
-• Developed and unit tested multiple user stories in CRM D365 by writing JavaScript’s, plugins, business rules, workflows etc 
-• Handled solution deployment via CI/CD pipeline in Azure DevOps 
-• Created Azure App functions, ASB queues in Azure for synchronous integration of CRM with 3rd party system
-• Implemented various CRM workarounds/solutions for functionalities specific to security roles, compliances etc
+
+[Support team]  
+• Resolved 100+ technical issues in CRM across various regions quickly and effectively without breaching SLAs  
+• Handled P1/P2 issues and other critical challenges on the fly while coordinating with client and other vendors across the project  
+• Analyzed, captured detailed root cause and provided solution for each and every technical problem in CRM D365
+
 ```
 
 **L&T Infotech**  
@@ -84,7 +86,7 @@ My contribution to :
  
 • Developed a Plugin Automation Testing Tool to perform unit testing locally of all plugins in CRM D365 (eliminating the requirement of deployment solely for testing purposes)  
 • Created a common Rest API Code which could be used by various javascript functions/plugins/code activities in CRM D365 application for retrieval of data   
-• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking etc 
+• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking,  etc 
 • Implemented various CRM D365 functionalities by writing plugins, JavaScript, business rules etc. as and when required
 ```
 
