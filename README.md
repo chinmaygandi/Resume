@@ -45,7 +45,7 @@ Cloud (AWS & Azure), Data Engineering, Software Enginnering, Dynamics 365, Power
 **Senior Software Engineer**  
 **Aug 2020 - Aug 2022**   
 ```    
-Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA etc for worlds largest elevator manufacturing company 
+Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA etc
 
 My contribution to :  
 
@@ -81,7 +81,7 @@ My contribution to :
 **Graduate Engineer Trainee**  
 **Aug 2019 - Aug 2020**  
 ```
-Worked as a CRM developer for a Fortune 500 insurance company  
+ 
 • Developed a Plugin Automation Testing Tool to perform unit testing locally of all plugins in CRM D365 (eliminating the requirement of deployment solely for testing purposes)  
 • Created a common Rest API Code which could be used by various javascript functions/plugins/code activities in CRM D365 application for retrieval of data   
 • Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking etc 
