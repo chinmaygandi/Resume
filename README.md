@@ -67,13 +67,14 @@ My contribution to :
 • Maintained checklists, followed individual country compliances to make sure that there is no miss during pre-migration, migration and post migration  
 • Automated smoke testing in CRM by developing utilities from scratch using selenium drivers, Easy-Repro framework, C# etc  
 • Received exclsuive appreciation certificate for effective and optimized data migration from client 
+• Contributed to the teams success in winning LTI's GoMx Ninja award - FY2021 - Q4
  
 [Development team]  
 • Designed various functionalities in CRM/Power Platform using low code approach via Power Flow/Power Automate 
 • Developed and unit tested multiple user stories in CRM D365 by writing JavaScript’s, plugins, business rules, workflows etc 
 • Handled solution deployment via CI/CD pipeline in Azure DevOps 
 • Created Azure App functions, ASB queues in Azure for synchronous integration of CRM with 3rd party system
-• Implemented various CRM workarounds/solutions for functionalities specific to security roles, compliances etc.
+• Implemented various CRM workarounds/solutions for functionalities specific to security roles, compliances etc
 ```
 
 **L&T Infotech**  
@@ -83,7 +84,7 @@ My contribution to :
 Worked as a CRM developer for a Fortune 500 insurance company  
 • Developed a Plugin Automation Testing Tool to perform unit testing locally of all plugins in CRM D365 (eliminating the requirement of deployment solely for testing purposes)  
 • Created a common Rest API Code which could be used by various javascript functions/plugins/code activities in CRM D365 application for retrieval of data   
-• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking etc.  
+• Handled various critical implementations in the Dyanmics 365 application such as, not limited to SSN number data masking etc 
 • Implemented various CRM D365 functionalities by writing plugins, JavaScript, business rules etc. as and when required
 ```
 
