@@ -1,5 +1,5 @@
 # RESUME
-You can reach out to me gandi.c@northeastern.edu
+You can reach out to me on gandi.c@northeastern.edu
 
 ### **Education**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
