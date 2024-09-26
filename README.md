@@ -4,7 +4,7 @@ You can reach out to me on gandi.c@northeastern.edu
 ### **Education**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Northeastern University, Boston, USA (Sept 2022 – Apr 2024)**  
+**Northeastern University, Boston, USA (Sept 2022 – Aug 2024)**  
 Master of Science in Data Architecture and Management  
 GPA: 3.84 / 4.00
 
