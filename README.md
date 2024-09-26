@@ -6,7 +6,7 @@ You can reach out to me on gandi.c@northeastern.edu
 
 **Northeastern University, Boston, USA (Sept 2022 – Aug 2024)**  
 Master of Science in Data Architecture and Management  
-GPA: 3.84 / 4.00
+GPA: 3.75 / 4.00
 
 **University of Mumbai, Mumbai, India (Jun 2015 – June 2019)**  
 Bachelor of Engineering in Computer Science  
@@ -27,7 +27,9 @@ Cloud (AWS & Azure), Data Engineering, Software Enginnering, Dynamics 365, Power
 • Microsoft Certified Azure Developer Associate (AZ-204)  
 • Microsoft Certified Power Platform Functional Consultant Associate (PL-200)  
 • Microsoft Certified Power Platform Fundamentals (PL-900)  
-• Dynamics 365 + Power Platform Solution Architect Expert (MB 600)
+• Dynamics 365 + Power Platform Solution Architect Expert (MB 600)  
+• HashiCorp Terraform Associate (003)  
+• Google Cloud Professional Cloud DevOps Engineer 
 
 ### **Technical Skills**  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -41,11 +43,21 @@ Cloud (AWS & Azure), Data Engineering, Software Enginnering, Dynamics 365, Power
 ### **Work Experience**  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Atyeti Inc**  
+**Graduate Intern**  
+**Jan 2024 - Apr 2024**  
+```
+• Pioneered role of Data & DevOps engineer (cloud), leading to creation of a CI/CD pipeline for a vital internal tool 
+• Initiated & made infrastructure creation utilizing Terraform, comprising GCP compute engine, SQL server, Neo4j and Docker 
+• Designed GitHub actions for CI, through docker images of NodeJS builds resulting in reduced pipeline execution time by 20% 
+• Leveraged GCP compute engine for CD part to push application across Dev/UAT/Prod environments increasing 30% efficiency 
+```
+
 **L&T Infotech**  
-**Senior Software Engineer**  
+**Senior Software Engineer - Dynamics 365/Power Platform**  
 **Aug 2020 - Aug 2022**   
 ```    
-Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA engineer etc
+Adapted to organizational needs by assuming diverse roles such as software engineer, data engineer, QA engineer etc in Dynamics 365 & Power Platform. 
 
 My contribution to :  
 
@@ -80,7 +92,7 @@ My contribution to :
 ```
 
 **L&T Infotech**  
-**Graduate Engineer Trainee**  
+**Graduate Engineer Trainee - Dynamics 365/Power Platform**  
 **Aug 2019 - Aug 2020**  
 ```
  
